@@ -1,0 +1,19 @@
+{
+  "name": "babel.config.js",
+  "version": "1.0.0",
+  "description": "JAVASCRIPT ES6 BASICS",
+  "main": "0-constants.js",
+  "dependencies": {
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-plugin-react": "^7.31.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
